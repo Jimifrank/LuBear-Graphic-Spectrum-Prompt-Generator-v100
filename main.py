@@ -47,4 +47,4 @@ uses = [
 ]
 
 for use in uses:
-    print(create_prompt('red rose', 'white', use))
+    print(create_prompt(input("Object name: "),  input("Background colour or other adjective applicable to a background: "), use))
