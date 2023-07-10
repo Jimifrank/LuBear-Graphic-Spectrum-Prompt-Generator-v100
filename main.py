@@ -1,5 +1,8 @@
-def create_prompt(subject, color, use):
-    return f"/imagine prompt: a {subject}, with a {color} background, {use}"
+def create_prompt(subject, backgroundAdjective, use):
+    return f"/imagine prompt: a {subject}, with a {backgroundAdjective} background, {use}"
+
+subject = input("Object name: ")
+backgroundAdjective = input("Background color or other adjective applicable to a background: ")
 
 uses = [
     "--niji 5, low resolution",
@@ -46,5 +49,6 @@ uses = [
     "as a sports-team logo, high resolution", 
 ]
 
+
 for use in uses:
-    print(create_prompt(input("Object name: "),  input("Background colour or other adjective applicable to a background: "), use))
+    print(create_prompt(subject, backgroundAdjective, use))
