@@ -79,3 +79,11 @@ uses = [
 
 for use in uses:
     print(create_prompt(subject, backgroundAdjective, use))
+    #print, but add "--niji 5" to the end of the prompt"
+      #print(create_prompt(subject, backgroundAdjective, use, "--niji 5"))
+    #print, but add ", low resolution" to the end of the prompt"
+      #print(create_prompt(subject, backgroundAdjective, use, ", low resolution"))
+    #print, but add ", medium resolution" to the end of the prompt"
+      #print(create_prompt(subject, backgroundAdjective, use, ", medium resolution"))
+    #print, but add ", high resolution" to the end of the prompt"
+      #print(create_prompt(subject, backgroundAdjective, use, ", high resolution"))  
