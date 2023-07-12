@@ -5,9 +5,9 @@ subject = input("Object name: ")
 backgroundAdjective = input("Background color or other adjective applicable to a background: ")
 
 uses = [
-    "--niji 5, low resolution",
-    "--niji 5, medium resolution",
-    "--niji 5, high resolution",
+    "low resolution, --niji 5",
+    "medium resolution, --niji 5",
+    "high resolution, --niji 5",
     "as an art-piece, low resolution",
   "as an art-piece, medium resolution",
     "as an art-piece, high resolution",
