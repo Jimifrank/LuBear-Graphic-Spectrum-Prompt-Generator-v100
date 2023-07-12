@@ -74,6 +74,20 @@ uses = [
   "as a symbol to be place in-line with text, low resolution",
   "as a symbol to be place in-line with text, medium resolution",
   "as a symbol to be place in-line with text, high resolution",
+  "as artwork for a mug, low resolution",
+  "as artwork for a mug, medium resolution",
+  "as artwork for a mug, high resolution",
+  "as a mug, low resolution, --niji 5",
+  "as a mug, medium resolution, --niji 5",
+  "as a mug, high resolution, --niji 5",
+  "as a mug, low resolution, --niji 5",
+  "on its own, as a cartoon, low resolution, --s 500",
+  "on its own, as a cartoon, medium resolution, --s 500",
+  "on its own, as a cartoon, high resolution, --s 500",
+  "as a cartoon, low resolution",
+  "as a cartoon, medium resolution",
+  "as a cartoon, high resolution",
+  
 ]
 
 
