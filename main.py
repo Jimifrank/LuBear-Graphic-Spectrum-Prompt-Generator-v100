@@ -58,7 +58,7 @@ uses = [
     "engaged with by a beautiful-young-asian woman wearing a tight dress, woman looking at camera with a big white smile and flirty eyes, high resolution",
   "engaged with by a beautiful-young-asian woman wearing a tight dress, woman looking at camera with a big white smile and flirty eyes, low resolution, --niji 5",
   "engaged with by a beautiful-young-asian woman wearing a tight dress, woman looking at camera with a big white smile and flirty eyes, medium resolution, --niji 5",
-  "engaged with by a beautiful-young-asian woman wearing a tight dress, woman looking at camera with a big white smile and flirty eyes, high resolution, --nij 5",
+  "engaged with by a beautiful-young-asian woman wearing a tight dress, woman looking at camera with a big white smile and flirty eyes, high resolution, --niji 5",
   "engaged with by a handsome businessman dressed formally, man looking at camera with a big white smile and flirty eyes, low resolution",
   "engaged with by a handsome businessman dressed formally, man looking at camera with a big white smile and flirty eyes, medium resolution",
   "engaged with by a handsome businessman dressed formally, man looking at camera with a big white smile and flirty eyes, high resolution",
