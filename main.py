@@ -100,4 +100,7 @@ for use in uses:
     #print, but add ", medium resolution" to the end of the prompt"
       #print(create_prompt(subject, backgroundAdjective, use, ", medium resolution"))
     #print, but add ", high resolution" to the end of the prompt"
-      #print(create_prompt(subject, backgroundAdjective, use, ", high resolution"))  
+      #print(create_prompt(subject, backgroundAdjective, use, ", high resolution"))
+
+# 
+##
