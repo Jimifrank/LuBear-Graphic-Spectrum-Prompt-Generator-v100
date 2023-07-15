@@ -87,6 +87,12 @@ uses = [
   "as a cartoon, low resolution",
   "as a cartoon, medium resolution",
   "as a cartoon, high resolution",
+  "as grimdark fantasy digital art, --s 500, low resolutuon",
+  "as grimdark fantasy digital art, --s 500, medium resolution",
+  "as grimdark fantasy digital art, --s 500, high resolution",
+  "as grimdark fantasy digital art, --s 1000, low resolutuon",
+  "as grimdark fantasy digital art, --s 1000, medium resolution",
+  "as grimdark fantasy digital art, --s 1000, high resolution"
   
 ]
 
