@@ -11,7 +11,7 @@ uses = [
     "as an art-piece, low resolution",
   "as an art-piece, medium resolution",
     "as an art-piece, high resolution",
-    "as a tattoo template, low resoltution",
+    "as a tattoo template, low resolution",
   "as a tattoo template, medium resolution",
     "as a tattoo template, high resolution",
     "as a cartoon, low resolution",
