@@ -96,6 +96,21 @@ uses = [
   "as a modern art-piece statute, ultra-photorealistic, low resolution",
   "as a modern art-piece statute, ultra-photorealistic, medium resolution",
   "as a modern art-piece statute, ultra-photorealistic, high resolution"
+  "as an isometric art-piece, low resolution"
+  "as an isometric art-piece, medium resolution"
+  "as an isometric art-piece, high resolution"
+  "as a 3d printed statue, low resolution"
+  "as a 3d printed statue, medium resolution"
+  "as a 3d printed statue, high resolution"
+  "as a 3d printed statue, low resolution, --niji 5"
+  "as a 3d printed statue, medium resolution, --niji 5"
+  "as a 3d printed statue, high resolution, --niji 5"
+  "as a ghibli-style art-piece, low resolution"
+  "as a ghibli-style art-piece, medium resolution"
+  "as a ghibli-style art-piece, high resolution"
+  "as a ghibli-style art-piece, low resolution, --niji 5"
+  "as a ghibli-style art-piece, medium resolution, --niji 5"
+  "as a ghibli-style art-piece, high resolution, --niji 5"
   
 ]
 
